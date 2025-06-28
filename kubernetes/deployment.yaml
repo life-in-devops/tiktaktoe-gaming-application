@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tic-tac-toe
-        image: 123456789012.dkr.ecr.us-east-1.amazonaws.com/tic-tac-toe:sha-04f7394
+        image: 539188695824.dkr.ecr.ap-south-1.amazonaws.com/tiktaktoe-gaming-application:sha-6055a5fafc63a0daf0a991c14bdfab4d563db697
         imagePullPolicy: Always
         ports:
         - containerPort: 80
